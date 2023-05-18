@@ -1,0 +1,8 @@
+star:
+  wars:
+    url: https://swapi.dev/api/people
+
+server:
+  port: 8065
+
+
